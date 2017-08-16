@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/allan/dev/projects/learning/play-fullstack-api/conf/application.conf,/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/allan/dev/projects/learning/play-fullstack-api/conf/evolutions,/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/Users/allan/dev/projects/learning/play-fullstack-api/conf/logback.xml,/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/Users/allan/dev/projects/learning/play-fullstack-api/conf/routes,/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/allan/dev/projects/learning/play-fullstack-api/conf/evolutions/default,/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/Users/allan/dev/projects/learning/play-fullstack-api/conf/evolutions/default/1.sql,/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/evolutions/default/1.sql)[0m

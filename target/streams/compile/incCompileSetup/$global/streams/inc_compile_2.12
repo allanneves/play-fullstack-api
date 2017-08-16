@@ -1,0 +1,750 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+16 items
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/ReverseApiController.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/ReverseAssets.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/ReverseProductController.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/javascript/ReverseApiController.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/javascript/ReverseAssets.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/javascript/ReverseProductController.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/router/Routes.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/router/RoutesPrefix$.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/router/RoutesPrefix.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/main$.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/main.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/newProductForm$.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/newProductForm.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/notifications$.class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/notifications.class
+binary dependencies:
+30 items
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> /Users/allan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> /Users/allan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> /Users/allan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> /Users/allan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play-java-forms_2.12/jars/play-java-forms_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play-java_2.12/jars/play-java_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/twirl-api_2.12/jars/twirl-api_2.12-1.3.4.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> /Users/allan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/.ivy2/cache/com.adrianhurt/play-bootstrap_2.12/jars/play-bootstrap_2.12-1.2-P26-B3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play-java-forms_2.12/jars/play-java-forms_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play-java_2.12/jars/play-java_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/twirl-api_2.12/jars/twirl-api_2.12-1.3.4.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play-java-forms_2.12/jars/play-java-forms_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play-java_2.12/jars/play-java_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.3.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> /Users/allan/.ivy2/cache/com.typesafe.play/twirl-api_2.12/jars/twirl-api_2.12-1.3.4.jar
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> /Users/allan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+10 items
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/app/controllers/ApiController.java
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/app/controllers/ProductController.java
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/routes.java
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/app/models/Product.java
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/routes.java
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> /Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+16 items
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseApiController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseAssets
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> controllers.ReverseProductController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseApiController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseAssets
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers.javascript.ReverseProductController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> router.Routes
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> router.Routes$$anonfun$routes$1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> router.RoutesPrefix$
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> views.html.main
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> views.html.main$
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> views.html.newProductForm
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> views.html.newProductForm$
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> views.html.notifications
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> views.html.notifications$
+used names:
+478 items
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> +
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <byname>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <init>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <refinement>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> <repeated>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> A
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Any
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> AnyRef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Asset
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Assets
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> B
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Boolean
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Call
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> F
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Map
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Nothing
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Object
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> PathBindable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Predef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> ReverseApiController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> ReverseAssets
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> ReverseProductController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> ReverseRouteContext
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Right
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> String
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> T
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> T1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> T2
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> Tuple2
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _defaultPrefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _pf_escape_type
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _prefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _root_
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> _rrc
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> api
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> apply
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> assetPathBindable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> bindableString
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> controllers
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> core
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> dynamicString
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> endsWith
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> file
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> implicitly
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> libs
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> mvc
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> package
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> play
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> routing
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> scala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> unbind
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> +
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <byname>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <init>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> <refinement>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Any
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> AnyRef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Asset
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Assets
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Boolean
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> F
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> JavaScriptReverseRoute
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Nothing
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Object
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> PathBindable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Predef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseApiController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseAssets
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseProductController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> ReverseRouteContext
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> Right
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> String
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> T
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _defaultPrefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _prefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> _root_
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> api
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> assetPathBindable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> bindableString
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> controllers
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> empty
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> endsWith
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> implicitly
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascript
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> javascriptUnbind
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> libs
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> mvc
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> play
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> routing
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> scala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> +
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> ++
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> :+
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> <byname>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> <init>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> <refinement>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> <repeated>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> ?0
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> A
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> A1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> A2
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> AbstractPartialFunction
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Action
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Any
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> AnyContent
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> AnyRef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> ApiController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> ApiController_0
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Asset
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Assets
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Assets_1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> B
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> B1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Boolean
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> CanBuildFrom
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> ClassLoader
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Coll
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> DynamicPart
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Either
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> F
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Function1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Function2
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> GenTraversableOnce
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> GeneratedRouter
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Handler
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> HandlerDef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> HandlerInvoker
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> HandlerInvokerFactory
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> HttpErrorHandler
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> List
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Nil
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> None
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Nothing
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Object
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Option
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> P
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Param
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> ParamsExtractor
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> PartialFunction
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> PathBindable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> PathPart
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> PathPattern
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Predef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Product
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> ProductController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> ProductController_2
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> RequestHeader
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Result
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> ReverseRouteContext
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Right
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Route
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> RouteParams
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Routes
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> RoutesPrefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Seq
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Serializable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> StaticPart
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> String
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> T
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> T0
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> T1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> T2
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> T3
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> That
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Tuple3
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> Unit
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> _$1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> _pf_escape_type
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> allProducts
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> api
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> apply
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> asInstanceOf
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> assetPathBindable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> bindableString
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> call
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> canBuildFrom
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> collection
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_ApiController_allProducts3_invoker
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_ApiController_allProducts3_route
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_ApiController_filtered2_invoker
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_ApiController_filtered2_route
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_ApiController_fromType4_invoker
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_ApiController_fromType4_route
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_Assets_versioned5_invoker
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_Assets_versioned5_route
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_ProductController_newProductForm0_invoker
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_ProductController_newProductForm0_route
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_ProductController_saveNewProduct1_invoker
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> controllers_ProductController_saveNewProduct1_route
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> core
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> createInvoker
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> defaultPrefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> e
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> empty
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> endsWith
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> errorHandler
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> fakeValue
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> file
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> filtered
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> foldLeft
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> fromPath
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> fromType
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> get
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> getClass
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> getClassLoader
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> http
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> immutable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> isEmpty
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> isInstanceOf
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> libs
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> mvc
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> newProductForm
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> package
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> params
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> passThrough
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> path
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> play
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> prefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> router
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> routing
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> s
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> saveNewProduct
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> scala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> setPrefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> unapply
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> unary_!
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> unchecked
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> versioned
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> wrapJava
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> <init>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> AnyRef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Function0
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Object
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Predef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> RoutesPrefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> String
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> Unit
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> _prefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> _prefix_=
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> byNamePrefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> p
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> prefix
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> router
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> scala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> <init>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> <repeated>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> A
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Any
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Appendable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Asset
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Assets
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> BaseScalaTemplate
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Call
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> ClassTag
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Context
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Field
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Format
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Function1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Html
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> HtmlFormat
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Http
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Implicit
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> JavaConverters
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> JavaScript
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Nothing
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> PlayFormsMagicForJava
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> PlayMagic
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> PlayMagicForJava
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Predef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> ReverseAssets
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Seq
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> String
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> T
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Template2
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> TwirlFeatureImports
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> TwirlHelperImports
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Txt
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> Xml
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> _$7
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> _display_
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> _root_
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> api
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> apply
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> collection
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> content
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> controllers
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> core
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> data
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> format
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> html
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> i18n
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> j
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> java
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> lang
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> main
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> materializeClassTag
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> models
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> mvc
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> notifications
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> package
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> play
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> raw
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> reflect
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> routes
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> scala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> string2Asset
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> templates
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> title
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> twirl
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> util
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> versioned
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> views
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> ->
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> <byname>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> <init>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> <repeated>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> A
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Any
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Appendable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> ArrowAssoc
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> B
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> B3FieldConstructor
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> BaseScalaTemplate
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Call
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> ClassTag
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Context
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Field
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Form
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Format
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Function1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Html
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> HtmlFormat
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Http
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Implicit
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> JavaConverters
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> JavaScript
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Messages
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> MessagesProvider
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Nothing
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> PlayFormsMagicForJava
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> PlayMagic
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> PlayMagicForJava
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Predef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Product
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> ProductController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> ReverseProductController
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Seq
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> String
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Symbol
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> T
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Template1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Tuple2
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> TwirlFeatureImports
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> TwirlHelperImports
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Txt
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> Xml
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> _$7
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> _display_
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> _root_
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> api
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> apply
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> b3
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> collection
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> controllers
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> core
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> data
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> fieldConstructor
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> form
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> format
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> html
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> i18n
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> implicitJavaMessages
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> j
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> java
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> javaFieldtoScalaField
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> lang
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> main
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> materializeClassTag
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> models
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> mvc
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> newProductForm
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> number
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> package
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> play
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> raw
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> reflect
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> routes
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> saveNewProduct
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> scala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> submit
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> templates
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> text
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> textarea
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> twirl
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> util
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> vertical
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> views
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> <init>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> <repeated>
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> A
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Any
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Appendable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> B
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> BaseScalaTemplate
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Boolean
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> CanBuildFrom
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Class
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> ClassTag
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Coll
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Context
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Field
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Flash
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Format
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Function0
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Function1
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Html
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> HtmlFormat
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Http
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Implicit
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> JavaConverters
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> JavaScript
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Nothing
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> PlayFormsMagicForJava
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> PlayMagic
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> PlayMagicForJava
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Predef
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Seq
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Set
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> String
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> T
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Template0
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> That
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> TwirlFeatureImports
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> TwirlHelperImports
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Txt
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> Xml
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> _$7
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> _display_
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> _root_
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> api
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> apply
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> canBuildFrom
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> collection
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> controllers
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> core
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> data
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> flash
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> format
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> get
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> html
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> i18n
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> isEmpty
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> j
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> java
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> key
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> keySet
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> lang
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> map
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> materializeClassTag
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> models
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> mutable
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> mvc
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> notifications
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> package
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> play
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> raw
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> reflect
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> scala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> set asScala
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> templates
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> twirl
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> unary_!
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> util
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> views
+product stamps:
+16 items
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/ReverseApiController.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/ReverseAssets.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/ReverseProductController.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/javascript/ReverseApiController.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/javascript/ReverseAssets.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/controllers/javascript/ReverseProductController.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/router/Routes.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/router/RoutesPrefix$.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/router/RoutesPrefix.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/main$.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/main.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/newProductForm$.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/newProductForm.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/notifications$.class -> lastModified(1502926558000)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/classes/views/html/notifications.class -> lastModified(1502926558000)
+source stamps:
+14 items
+/Users/allan/dev/projects/learning/play-fullstack-api/app/controllers/ApiController.java -> hash(db47ff949ad073ec6db0e409b2f71003f4fa48c7)
+/Users/allan/dev/projects/learning/play-fullstack-api/app/controllers/ProductController.java -> hash(dfa76c2aad06e094e6c4ef68758ef52904aa6c16)
+/Users/allan/dev/projects/learning/play-fullstack-api/app/daos/ProductDAO.java -> hash(05fcf72076ffca5fe8de61168dbbfa5132b58acb)
+/Users/allan/dev/projects/learning/play-fullstack-api/app/models/Product.java -> hash(c5a137e4a625b811254fdfce19a890a27ad4a29f)
+/Users/allan/dev/projects/learning/play-fullstack-api/app/models/wrappers/ProductWrapper.java -> hash(296c4ad90a1e76e73a404a3826d198ce44f4bfc5)
+/Users/allan/dev/projects/learning/play-fullstack-api/app/validators/ProductValidator.java -> hash(3bdf9dd911fa26d28648c5461f5bab256bf29d41)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> hash(e5a356087df080defa49a7a0e1173fc338789c69)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> hash(c9e6fbde37a985ca88e068f535a807adb5d7a0ed)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/routes.java -> hash(c70364e8758447ef62d04401d62f69b041f7148d)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> hash(9c7cdc24976055a8359e2dc94ab0d8877d53ed05)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> hash(fea0a7bf98ae1b70bf33233bb4862937c096788c)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> hash(c8551eaf32ade209072e69befb5647369c20f9dc)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> hash(ef5a3ef503f2cfe170fb5029093c7407f6429b05)
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> hash(7fddc44045e854b48d7883656c8d7e7375238c94)
+binary stamps:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1489567893000)
+/Users/allan/.ivy2/cache/com.adrianhurt/play-bootstrap_2.12/jars/play-bootstrap_2.12-1.2-P26-B3.jar -> lastModified(1500815605000)
+/Users/allan/.ivy2/cache/com.typesafe.play/play-java-forms_2.12/jars/play-java-forms_2.12-2.6.3.jar -> lastModified(1502481917000)
+/Users/allan/.ivy2/cache/com.typesafe.play/play-java_2.12/jars/play-java_2.12-2.6.3.jar -> lastModified(1502481935000)
+/Users/allan/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.3.jar -> lastModified(1502481890000)
+/Users/allan/.ivy2/cache/com.typesafe.play/twirl-api_2.12/jars/twirl-api_2.12-1.3.4.jar -> lastModified(1502234469000)
+/Users/allan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar -> java.util.HashMap
+/Users/allan/.ivy2/cache/com.adrianhurt/play-bootstrap_2.12/jars/play-bootstrap_2.12-1.2-P26-B3.jar -> views.html.b3.vertical.package$
+/Users/allan/.ivy2/cache/com.typesafe.play/play-java-forms_2.12/jars/play-java-forms_2.12-2.6.3.jar -> play.core.j.PlayFormsMagicForJava$
+/Users/allan/.ivy2/cache/com.typesafe.play/play-java_2.12/jars/play-java_2.12-2.6.3.jar -> play.core.j.PlayMagicForJava$
+/Users/allan/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.3.jar -> play.api.data.Field
+/Users/allan/.ivy2/cache/com.typesafe.play/twirl-api_2.12/jars/twirl-api_2.12-1.3.4.jar -> play.twirl.api.Template0
+/Users/allan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.collection.Seq$
+internal apis:
+14 items
+/Users/allan/dev/projects/learning/play-fullstack-api/app/controllers/ApiController.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFd7Wc0anVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdABPL1VzZXJzL2FsbGFuL2Rldi9wcm9qZWN0cy9sZWFybmluZy9wbGF5LWZ1bGxzdGFjay1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNtH/5Sa0HPsbbDkCbL3EAP0+kjH
+/Users/allan/dev/projects/learning/play-fullstack-api/app/controllers/ProductController.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFd7Wc0anVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdABPL1VzZXJzL2FsbGFuL2Rldi9wcm9qZWN0cy9sZWFybmluZy9wbGF5LWZ1bGxzdGFjay1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFN+nbCqtBuCU5sTvaHWO9SkEqmwW
+/Users/allan/dev/projects/learning/play-fullstack-api/app/daos/ProductDAO.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFd7Wc0anVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdABPL1VzZXJzL2FsbGFuL2Rldi9wcm9qZWN0cy9sZWFybmluZy9wbGF5LWZ1bGxzdGFjay1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAX89yB2/8pf6N5hFo27+lEytYrL
+/Users/allan/dev/projects/learning/play-fullstack-api/app/models/Product.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFd7Wc0anVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdABPL1VzZXJzL2FsbGFuL2Rldi9wcm9qZWN0cy9sZWFybmluZy9wbGF5LWZ1bGxzdGFjay1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMWhN+SmJbgRJU/fzhmokKJ61KKf
+/Users/allan/dev/projects/learning/play-fullstack-api/app/models/wrappers/ProductWrapper.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFd7Wc0anVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdABPL1VzZXJzL2FsbGFuL2Rldi9wcm9qZWN0cy9sZWFybmluZy9wbGF5LWZ1bGxzdGFjay1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFClsStkKHnbnOkBKOCbRmM5E9L/F
+/Users/allan/dev/projects/learning/play-fullstack-api/app/validators/ProductValidator.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFd7Wc0anVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdABPL1VzZXJzL2FsbGFuL2Rldi9wcm9qZWN0cy9sZWFybmluZy9wbGF5LWZ1bGxzdGFjay1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFDvfndkR+ibShkjFRh9bqyVr8p1B
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwiGw+sgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0JTranQABm5vdGlmeXNxAH4ADPefvzN0AAhmaWx0ZXJlZHNxAH4ADJ1g6Kp0AA5fZGVmYXVsdFByZWZpeHNxAH4ADCRo4ox0AAR3YWl0c3EAfgAM6EHY5nQADSRhc0luc3RhbmNlT2ZzcQB+AAz8z/+6dAAYUmV2ZXJzZVByb2R1Y3RDb250cm9sbGVyc3EAfgAMuItGbXQABmVxdWFsc3NxAH4ADICb+rB0AAxhc0luc3RhbmNlT2ZzcQB+AAwwSUB3dAAMc3luY2hyb25pemVkc3EAfgAM0xTRi3QADSRpc0luc3RhbmNlT2ZzcQB+AAxB8sHydAALYWxsUHJvZHVjdHNzcQB+AAxQhv4JdAANUmV2ZXJzZUFzc2V0c3NxAH4ADB4e/RJ0AA5zYXZlTmV3UHJvZHVjdHNxAH4ADED8M1R0AAlub3RpZnlBbGxzcQB+AAyR0S6PdAAIZnJvbVR5cGVzcQB+AAytuu5qdAAMaXNJbnN0YW5jZU9mc3EAfgAMSC6jjXQABjxpbml0PnNxAH4ADF7gTaZ0AAI9PXNxAH4ADN4Z+u90AAVjbG9uZXNxAH4ADI0QPqd0AA5uZXdQcm9kdWN0Rm9ybXNxAH4ADIHtAR90AAh0b1N0cmluZ3NxAH4ADF+oDr10AAIhPXNxAH4ADPrux7t0AAhnZXRDbGFzc3NxAH4ADADkxwh0ABRSZXZlcnNlQXBpQ29udHJvbGxlcnNxAH4ADF1x4PZ0AAJuZXNxAH4ADKe0cVB0AAl2ZXJzaW9uZWRzcQB+AAyIPxBIdAACZXFzcQB+AAypcvIDdAACIyNzcQB+AAxiXo2jdAAIZmluYWxpemVzcQB+AAzyV/x4dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAkY29udHJvbGxlcnMuUmV2ZXJzZVByb2R1Y3RDb250cm9sbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AU0wACWluaGVyaXRlZHEAfgBTTAAHcGFyZW50c3EAfgBTeHEAfgBwc3EAfgBrdXEAfgBOAAAAAHNxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIlzcQB+AHx0AANBbnlzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIdAAFc2NhbGFxAH4Aj3NxAH4AUHEAfgBddXEAfgBeAAAAAHNxAH4AYAB0ABljb250cm9sbGVycy5SZXZlcnNlQXNzZXRzdXEAfgBjAAAAAHEAfgBndXEAfgBpAAAAAHNxAH4Aa3EAfgBxc3EAfgBrc3EAfgBzc3EAfgBrdXEAfgBOAAAAAHNxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cQB+AHoAAAACc3EAfgB8cQB+AH9zcQB+AIBzcQB+AIN1cQB+AIYAAAADc3EAfgCIcQB+AItzcQB+AIhxAH4AjXEAfgCPc3EAfgB8cQB+AJFzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIcQB+AJZxAH4Aj3NxAH4AUHEAfgBddXEAfgBeAAAAAHNxAH4AYAB0ACBjb250cm9sbGVycy5SZXZlcnNlQXBpQ29udHJvbGxlcnVxAH4AYwAAAABxAH4AZ3VxAH4AaQAAAABzcQB+AGtxAH4AcXNxAH4Aa3NxAH4Ac3NxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cQB+AE4AAAAAc3EAfgBrdXEAfgB6AAAAAnNxAH4AfHEAfgB/c3EAfgCAc3EAfgCDdXEAfgCGAAAAA3NxAH4AiHEAfgCLc3EAfgCIcQB+AI1xAH4Aj3NxAH4AfHEAfgCRc3EAfgCAc3EAfgCDdXEAfgCGAAAAAnNxAH4AiHEAfgCWcQB+AI91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe1nNGp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPL1VzZXJzL2FsbGFuL2Rldi9wcm9qZWN0cy9sZWFybmluZy9wbGF5LWZ1bGxzdGFjay1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOWjVgh98IDe+kmnoOEXP8M4eJxp
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgrU4+AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKJ8jDXQABm5vdGlmeXNxAH4ADEVktYh0AAhmaWx0ZXJlZHNxAH4ADONexvZ0AA5fZGVmYXVsdFByZWZpeHNxAH4ADJlnQt90AAR3YWl0c3EAfgAM6expynQADSRhc0luc3RhbmNlT2ZzcQB+AAweCvvEdAAYUmV2ZXJzZVByb2R1Y3RDb250cm9sbGVyc3EAfgAM+kzLonQABmVxdWFsc3NxAH4ADA8NXh90AAxhc0luc3RhbmNlT2ZzcQB+AAz8o4EIdAAMc3luY2hyb25pemVkc3EAfgAMv+5YRnQADSRpc0luc3RhbmNlT2ZzcQB+AAwZvIJrdAALYWxsUHJvZHVjdHNzcQB+AAx0nQVbdAANUmV2ZXJzZUFzc2V0c3NxAH4ADESS+Bd0AA5zYXZlTmV3UHJvZHVjdHNxAH4ADKneA1x0AAlub3RpZnlBbGxzcQB+AAww0M8idAAIZnJvbVR5cGVzcQB+AAw7/xA2dAAMaXNJbnN0YW5jZU9mc3EAfgAM1aJNd3QABjxpbml0PnNxAH4ADLluEAl0AAI9PXNxAH4ADHhoPjJ0AAVjbG9uZXNxAH4ADGuNCpZ0AA5uZXdQcm9kdWN0Rm9ybXNxAH4ADNrPKYx0AAh0b1N0cmluZ3NxAH4ADIZjGdh0AAIhPXNxAH4ADL/IPsp0AAhnZXRDbGFzc3NxAH4ADEgT42h0ABRSZXZlcnNlQXBpQ29udHJvbGxlcnNxAH4ADFjYMgx0AAJuZXNxAH4ADLH8WTN0AAl2ZXJzaW9uZWRzcQB+AAyYOiwedAACZXFzcQB+AAxhN75wdAACIyNzcQB+AAyda6x9dAAIZmluYWxpemVzcQB+AAwQhBiJdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAADc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAvY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlUHJvZHVjdENvbnRyb2xsZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Aa3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBTTAAJaW5oZXJpdGVkcQB+AFNMAAdwYXJlbnRzcQB+AFN4cQB+AHBzcQB+AGt1cQB+AE4AAAAAc3EAfgBrdXEAfgBOAAAAAHNxAH4Aa3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ab3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ab3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AiHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AiXNxAH4AfHQAA0FueXNxAH4AgHNxAH4Ag3VxAH4AhgAAAAJzcQB+AIh0AAVzY2FsYXEAfgCPc3EAfgBQcQB+AF11cQB+AF4AAAAAc3EAfgBgAHQAJGNvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZUFzc2V0c3VxAH4AYwAAAABxAH4AZ3VxAH4AaQAAAABzcQB+AGtxAH4AcXNxAH4Aa3NxAH4Ac3NxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cQB+AE4AAAAAc3EAfgBrdXEAfgB6AAAAAnNxAH4AfHEAfgB/c3EAfgCAc3EAfgCDdXEAfgCGAAAAA3NxAH4AiHEAfgCLc3EAfgCIcQB+AI1xAH4Aj3NxAH4AfHEAfgCRc3EAfgCAc3EAfgCDdXEAfgCGAAAAAnNxAH4AiHEAfgCWcQB+AI9zcQB+AFBxAH4AXXVxAH4AXgAAAABzcQB+AGAAdAArY29udHJvbGxlcnMuamF2YXNjcmlwdC5SZXZlcnNlQXBpQ29udHJvbGxlcnVxAH4AYwAAAABxAH4AZ3VxAH4AaQAAAABzcQB+AGtxAH4AcXNxAH4Aa3NxAH4Ac3NxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cQB+AE4AAAAAc3EAfgBrdXEAfgB6AAAAAnNxAH4AfHEAfgB/c3EAfgCAc3EAfgCDdXEAfgCGAAAAA3NxAH4AiHEAfgCLc3EAfgCIcQB+AI1xAH4Aj3NxAH4AfHEAfgCRc3EAfgCAc3EAfgCDdXEAfgCGAAAAAnNxAH4AiHEAfgCWcQB+AI91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABZjb250cm9sbGVycy5qYXZhc2NyaXB0c3EAfgDNdAALY29udHJvbGxlcnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3tZzRqdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATy9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1mdWxsc3RhY2stYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTJ5vveN6mFyojgaPU1qAettdeg7Q==
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuCFR6gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFd7Wc0anVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3Rvcnl0ABJMamF2YS9sYW5nL1N0cmluZztMAA9zb3VyY2VEaXJlY3RvcnlxAH4AGnhwdABPL1VzZXJzL2FsbGFuL2Rldi9wcm9qZWN0cy9sZWFybmluZy9wbGF5LWZ1bGxzdGFjay1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMcDZOh1hEfvYtBEAdYvabBB9xSN
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwOiD0KAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAhc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwTYH5tnQABm5vdGlmeXNxAH4ADGWb3lJ0AApiYWRSZXF1ZXN0c3EAfgAMgJgH0nQABHdhaXRzcQB+AAxy9pV9dAANJGFzSW5zdGFuY2VPZnNxAH4ADEk2S3d0AAZyb3V0ZXNzcQB+AAx5b7vQdAANY3JlYXRlSW52b2tlcnNxAH4ADDoKbR50AAZlcXVhbHNzcQB+AAxUx9/vdAAGcHJlZml4c3EAfgAM7rEG3nQADGFzSW5zdGFuY2VPZnNxAH4ADAJP80p0AA1kb2N1bWVudGF0aW9uc3EAfgAMyAHA4HQADHN5bmNocm9uaXplZHNxAH4ADNpRt4V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMQ6hwr3QACmhhbmRsZXJGb3JzcQB+AAzxTVAydAAJbm90aWZ5QWxsc3EAfgAMyGaE1HQADGlzSW5zdGFuY2VPZnNxAH4ADFEejfd0AAZhc0phdmFzcQB+AAzOS0WodAAMZXJyb3JIYW5kbGVyc3EAfgAMki/XJnQABjxpbml0PnNxAH4ADFroZ7d0AAI9PXNxAH4ADDHdx6x0AAVjbG9uZXNxAH4ADOBEvnx0AAYkaW5pdCRzcQB+AAwUiwjJdAAGUm91dGVzc3EAfgAMt0jr8HQACHRvU3RyaW5nc3EAfgAMyb8nyHQAAiE9c3EAfgAMylHjK3QACWZha2VWYWx1ZXNxAH4ADHSi/xh0AAhnZXRDbGFzc3NxAH4ADDJgSaR0AAJuZXNxAH4ADAVx8Sx0AAp3aXRoUHJlZml4c3EAfgAMHZawrnQABGNhbGxzcQB+AAz3VL9+dAACZXFzcQB+AAz3Ur0QdAACIyNzcQB+AAxtA/WddAAIZmluYWxpemVzcQB+AAyFs1FvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAANcm91dGVyLlJvdXRlc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAE2phdmF4LmluamVjdC5JbmplY3RzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHdzcQB+AHJ1cQB+AFQAAAAAc3EAfgBydXEAfgBUAAAAAHNxAH4AcnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdnQAD0dlbmVyYXRlZFJvdXRlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4Aj3QABGNvcmVzcQB+AI90AAdyb3V0aW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJBzcQB+AIN0AAZSb3V0ZXJzcQB+AIdzcQB+AIp1cQB+AI0AAAAEc3EAfgCPdAAEcGxheXNxAH4Aj3QAA2FwaXNxAH4Aj3QAB3JvdXRpbmdxAH4AmHNxAH4Ag3QABk9iamVjdHNxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI90AARqYXZhc3EAfgCPdAAEbGFuZ3EAfgCYc3EAfgCDdAADQW55c3EAfgCHc3EAfgCKdXEAfgCNAAAAAnNxAH4Aj3QABXNjYWxhcQB+AJh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3tZzRqdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATy9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1mdWxsc3RhY2stYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABScfNwkl2BVqDWeLclKsNiHfVPtBQ==
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyXv9DQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3SNaY3QABm5vdGlmeXNxAH4ADDqZ8+l0AAxieU5hbWVQcmVmaXhzcQB+AAwaoC4qdAAEd2FpdHNxAH4ADCKKFB50AA0kYXNJbnN0YW5jZU9mc3EAfgAMaULSCHQABmVxdWFsc3NxAH4ADHOOIFd0AAZwcmVmaXhzcQB+AAyh7h6fdAAMYXNJbnN0YW5jZU9mc3EAfgAMSdNNC3QADFJvdXRlc1ByZWZpeHNxAH4ADMFVI+50AAxzeW5jaHJvbml6ZWRzcQB+AAzc9bSjdAANJGlzSW5zdGFuY2VPZnNxAH4ADL28U7F0AAlub3RpZnlBbGxzcQB+AAz/ysYxdAAMaXNJbnN0YW5jZU9mc3EAfgAM2W34NHQAAj09c3EAfgAMxTNSy3QABWNsb25lc3EAfgAM+6h7k3QACHRvU3RyaW5nc3EAfgAMjL/9EnQAAiE9c3EAfgAMFWcPZ3QACGdldENsYXNzc3EAfgAMRJBH63QACXNldFByZWZpeHNxAH4ADA44Ta90AAJuZXNxAH4ADBnhnUh0AAJlcXNxAH4ADBp2Pzd0AAIjI3NxAH4ADAff5nh0AAhmaW5hbGl6ZXNxAH4ADIIAnnp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABNyb3V0ZXIuUm91dGVzUHJlZml4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBdc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYnNxAH4AXXVxAH4AQAAAAABzcQB+AF11cQB+AEAAAAAAc3EAfgBddXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB6dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB7c3EAfgBudAADQW55c3EAfgByc3EAfgB1dXEAfgB4AAAAAnNxAH4AenQABXNjYWxhcQB+AIF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZyb3V0ZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3tZzRqdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATy9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1mdWxsc3RhY2stYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT+oKe/mK4bcL8zIzu0hik3wJZ4jA==
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwRhDfaQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwb+/wonQABm5vdGlmeXNxAH4ADK83o610AAZmb3JtYXRzcQB+AAxKsHYEdAAEd2FpdHNxAH4ADGy6tAt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMvvutHXQADHByb2R1Y3RBcml0eXNxAH4ADCbrt810AAZlcXVhbHNzcQB+AAyaL2ewdAAMYXNJbnN0YW5jZU9mc3EAfgAMnNVJUnQAAWZzcQB+AAzmERROdAAMc3luY2hyb25pemVkc3EAfgAMBK3hs3QACV9kaXNwbGF5X3NxAH4ADHd6P590AA0kaXNJbnN0YW5jZU9mc3EAfgAMuWHFt3QAA3JlZnNxAH4ADBVUGdF0AAhjYW5FcXVhbHNxAH4ADIKrCvd0AARtYWluc3EAfgAM2VVa1nQADXByb2R1Y3RQcmVmaXhzcQB+AAy4G/MXdAAJbm90aWZ5QWxsc3EAfgAMK6qIwnQADGlzSW5zdGFuY2VPZnNxAH4ADHsQktJ0AAVhcHBseXNxAH4ADLYU7tR0AAI9PXNxAH4ADNyI9jh0AAVjbG9uZXNxAH4ADNdDMsF0AAYkaW5pdCRzcQB+AAytaqoWdAAEY29weXNxAH4ADNBaeYR0AAh0b1N0cmluZ3NxAH4ADIJ0HTt0AAIhPXNxAH4ADPnqnDB0AAhnZXRDbGFzc3NxAH4ADHVD17Z0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMVocf10AAZyZW5kZXJzcQB+AAxZvzhVdAACbmVzcQB+AAx+dcPKdAACZXFzcQB+AAx8u4NedAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMsEEnAnQAAiMjc3EAfgAMSDV9PnQACGZpbmFsaXplc3EAfgAM+zDaZnQADnByb2R1Y3RFbGVtZW50c3EAfgAM0CuhpXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AW3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAD3ZpZXdzLmh0bWwubWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ac3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBbTAAJaW5oZXJpdGVkcQB+AFtMAAdwYXJlbnRzcQB+AFt4cQB+AHhzcQB+AHN1cQB+AFYAAAAAc3EAfgBzdXEAfgBWAAAAAHNxAH4Ac3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAIc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHdzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXhxAH4AhXhxAH4Ad3QACVRlbXBsYXRlMnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ad3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4Ak3QABXR3aXJsc3EAfgCTdAADYXBpc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJR1cQB+AIIAAAADc3EAfgCIdAAGU3RyaW5nc3EAfgCLc3EAfgCOdXEAfgCRAAAAA3NxAH4Ak3QABGphdmFzcQB+AJN0AARsYW5ncQB+AJxzcQB+AIh0AARIdG1scQB+AI1zcQB+AIh0AARIdG1scQB+AI1zcQB+AIRzcQB+AIh0ABFCYXNlU2NhbGFUZW1wbGF0ZXEAfgCNdXEAfgCCAAAAAnEAfgCpc3EAfgCEc3EAfgCIdAAGRm9ybWF0cQB+AI11cQB+AIIAAAABcQB+AKlzcQB+AIh0AAxTZXJpYWxpemFibGVzcQB+AItzcQB+AI51cQB+AJEAAAACc3EAfgCTdAAFc2NhbGFxAH4AnHNxAH4AiHEAfgC0c3EAfgCLc3EAfgCOdXEAfgCRAAAAA3NxAH4Ak3EAfgCkc3EAfgCTdAACaW9xAH4AnHNxAH4AiHQAB1Byb2R1Y3RxAH4AtXNxAH4AiHQABkVxdWFsc3EAfgC1c3EAfgCIdAAGT2JqZWN0cQB+AKBzcQB+AIh0AANBbnlxAH4AtXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXZpZXdzc3EAfgDLdAAKdmlld3MuaHRtbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe1nNGp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPL1VzZXJzL2FsbGFuL2Rldi9wcm9qZWN0cy9sZWFybmluZy9wbGF5LWZ1bGxzdGFjay1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMhVHq8yreIJBy5pvvtWRzacIPnc
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwUyZ7KAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfjQx4XQABm5vdGlmeXNxAH4ADAZPnnV0AAZmb3JtYXRzcQB+AAwcfwZwdAAEd2FpdHNxAH4ADLJp+/d0AA0kYXNJbnN0YW5jZU9mc3EAfgAMH1/hXnQADHByb2R1Y3RBcml0eXNxAH4ADOy6p5Z0AAZlcXVhbHNzcQB+AAxkV7BTdAAMYXNJbnN0YW5jZU9mc3EAfgAM5EPq93QAAWZzcQB+AAws/JvbdAAMc3luY2hyb25pemVkc3EAfgAMPMjof3QACV9kaXNwbGF5X3NxAH4ADD2z5mp0AA0kaXNJbnN0YW5jZU9mc3EAfgAMBH0+aXQAA3JlZnNxAH4ADIU0pTJ0AAhjYW5FcXVhbHNxAH4ADPTaMnZ0AA1wcm9kdWN0UHJlZml4c3EAfgAM8Rr2+HQACW5vdGlmeUFsbHNxAH4ADOY9iA10AAxpc0luc3RhbmNlT2ZzcQB+AAxY1DybdAAFYXBwbHlzcQB+AAw9OO+7dAACPT1zcQB+AAyzYR0WdAAFY2xvbmVzcQB+AAyAcCyOdAAGJGluaXQkc3EAfgAMfFYRCHQADm5ld1Byb2R1Y3RGb3Jtc3EAfgAMlUjaOXQABGNvcHlzcQB+AAy43r3FdAAIdG9TdHJpbmdzcQB+AAxXgZLYdAACIT1zcQB+AAx+2Qi7dAAIZ2V0Q2xhc3NzcQB+AAzXDPnxdAAOY29weSRkZWZhdWx0JDFzcQB+AAwONtn6dAAGcmVuZGVyc3EAfgAM5n0n8nQAAm5lc3EAfgAM5lIW1XQAAmVxc3EAfgAMho17d3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADK5U1G50AAIjI3NxAH4ADFsOT6F0AAhmaW5hbGl6ZXNxAH4ADKkzsvV0AA5wcm9kdWN0RWxlbWVudHNxAH4ADA/F0sd0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABl2aWV3cy5odG1sLm5ld1Byb2R1Y3RGb3JtdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4AeHNxAH4Ac3VxAH4AVgAAAABzcQB+AHN1cQB+AFYAAAAAc3EAfgBzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAhzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBldAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ad3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHEAfgCFeHEAfgB3dAAJVGVtcGxhdGUxc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB3c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgCTdAAFdHdpcmxzcQB+AJN0AANhcGlzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlHVxAH4AggAAAAJzcQB+AIRzcQB+AIh0AARGb3Jtc3EAfgCLc3EAfgCOdXEAfgCRAAAAA3NxAH4Ak3QABHBsYXlzcQB+AJN0AARkYXRhcQB+AJx1cQB+AIIAAAABc3EAfgCIdAAHUHJvZHVjdHNxAH4Ai3NxAH4AjnVxAH4AkQAAAAJzcQB+AJN0AAZtb2RlbHNxAH4AnHNxAH4AiHQABEh0bWxxAH4AjXNxAH4AhHNxAH4AiHQAEUJhc2VTY2FsYVRlbXBsYXRlcQB+AI11cQB+AIIAAAACcQB+ALBzcQB+AIRzcQB+AIh0AAZGb3JtYXRxAH4AjXVxAH4AggAAAAFxAH4AsHNxAH4AiHQADFNlcmlhbGl6YWJsZXNxAH4Ai3NxAH4AjnVxAH4AkQAAAAJzcQB+AJN0AAVzY2FsYXEAfgCcc3EAfgCIcQB+ALtzcQB+AItzcQB+AI51cQB+AJEAAAADc3EAfgCTdAAEamF2YXNxAH4Ak3QAAmlvcQB+AJxzcQB+AIhxAH4AqnEAfgC8c3EAfgCIdAAGRXF1YWxzcQB+ALxzcQB+AIh0AAZPYmplY3RzcQB+AItzcQB+AI51cQB+AJEAAAADc3EAfgCTcQB+AMZzcQB+AJN0AARsYW5ncQB+AJxzcQB+AIh0AANBbnlxAH4AvHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXZpZXdzc3EAfgDYdAAKdmlld3MuaHRtbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe1nNGp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPL1VzZXJzL2FsbGFuL2Rldi9wcm9qZWN0cy9sZWFybmluZy9wbGF5LWZ1bGxzdGFjay1hcGkvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFO9aPvUD8s/hcPtQKQk8dAf2QpsF
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwq8YxfgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAic3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwmRdEnQABm5vdGlmeXNxAH4ADAet6Ct0AAZmb3JtYXRzcQB+AAwfIbAxdAAEd2FpdHNxAH4ADJPQxFh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMuUBU3HQADHByb2R1Y3RBcml0eXNxAH4ADOKb/WB0AAZlcXVhbHNzcQB+AAxb80CvdAAMYXNJbnN0YW5jZU9mc3EAfgAMkP+mjXQAAWZzcQB+AAxNDuzcdAAMc3luY2hyb25pemVkc3EAfgAMYdcfcXQACV9kaXNwbGF5X3NxAH4ADNbFx650AA0kaXNJbnN0YW5jZU9mc3EAfgAMco42+3QAA3JlZnNxAH4ADLQSLHR0AAhjYW5FcXVhbHNxAH4ADDHKfkx0AA1wcm9kdWN0UHJlZml4c3EAfgAMtk/QVHQACW5vdGlmeUFsbHNxAH4ADFLtD3p0AAxpc0luc3RhbmNlT2ZzcQB+AAx7/kmhdAAFYXBwbHlzcQB+AAyN8kPYdAACPT1zcQB+AAw1+vpRdAAFY2xvbmVzcQB+AAxvvTAddAAGJGluaXQkc3EAfgAMjF5GQXQABGNvcHlzcQB+AAzldLmzdAAIdG9TdHJpbmdzcQB+AAwCZd7RdAACIT1zcQB+AAzGxGztdAAIZ2V0Q2xhc3NzcQB+AAyS0hjzdAAOY29weSRkZWZhdWx0JDFzcQB+AAzcoZNddAAGcmVuZGVyc3EAfgAMwLEQs3QADW5vdGlmaWNhdGlvbnNzcQB+AAwCvjX1dAACbmVzcQB+AAzEB46UdAACZXFzcQB+AAye5OtedAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMZyn+HHQAAiMjc3EAfgAMKaZ59HQACGZpbmFsaXplc3EAfgAMrwS1wHQADnByb2R1Y3RFbGVtZW50c3EAfgAMIKh+5nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AW3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAGHZpZXdzLmh0bWwubm90aWZpY2F0aW9uc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ac3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBbTAAJaW5oZXJpdGVkcQB+AFtMAAdwYXJlbnRzcQB+AFt4cQB+AHhzcQB+AHN1cQB+AFYAAAAAc3EAfgBzdXEAfgBWAAAAAHNxAH4Ac3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAIc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHdzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXhxAH4AhXhxAH4Ad3QACVRlbXBsYXRlMHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ad3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4Ak3QABXR3aXJsc3EAfgCTdAADYXBpc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJR1cQB+AIIAAAABc3EAfgCIdAAESHRtbHEAfgCNc3EAfgCEc3EAfgCIdAARQmFzZVNjYWxhVGVtcGxhdGVxAH4AjXVxAH4AggAAAAJxAH4AnnNxAH4AhHNxAH4AiHQABkZvcm1hdHEAfgCNdXEAfgCCAAAAAXEAfgCec3EAfgCIdAAMU2VyaWFsaXphYmxlc3EAfgCLc3EAfgCOdXEAfgCRAAAAAnNxAH4Ak3QABXNjYWxhcQB+AJxzcQB+AIhxAH4AqXNxAH4Ai3NxAH4AjnVxAH4AkQAAAANzcQB+AJN0AARqYXZhc3EAfgCTdAACaW9xAH4AnHNxAH4AiHQAB1Byb2R1Y3RxAH4AqnNxAH4AiHQABkVxdWFsc3EAfgCqc3EAfgCIdAAGT2JqZWN0c3EAfgCLc3EAfgCOdXEAfgCRAAAAA3NxAH4Ak3EAfgC0c3EAfgCTdAAEbGFuZ3EAfgCcc3EAfgCIdAADQW55cQB+AKp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAV2aWV3c3NxAH4Ax3QACnZpZXdzLmh0bWxzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV3tZzRqdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATy9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1mdWxsc3RhY2stYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR/3cRARehUtI14g2VsjX5zdSOMlA==
+external apis:
+0 items
+source infos:
+14 items
+/Users/allan/dev/projects/learning/play-fullstack-api/app/controllers/ApiController.java -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/app/controllers/ProductController.java -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/app/daos/ProductDAO.java -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/app/models/Product.java -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/app/models/wrappers/ProductWrapper.java -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/app/validators/ProductValidator.java -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/controllers/routes.java -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/Routes.scala -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/routes/main/router/RoutesPrefix.scala -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/main.template.scala -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/newProductForm.template.scala -> 
+AAAAAAAAAAA=
+/Users/allan/dev/projects/learning/play-fullstack-api/target/scala-2.12/twirl/main/views/html/notifications.template.scala -> 
+AAAAAAAAAAA=
+compilations:
+33 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeLaaT51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeLcp8l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXeLeU5p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXefS48V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXefn10t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXefoxFt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXefsn3R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXefwW5p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXefzHnB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXef99vF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXegNqHp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXegPUH11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXegSGG11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXegr7t11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXezhS5N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXezp0lF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXezrJ2R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXezsJQF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXez1djh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXez3lz11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe0BowV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe0GCWl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe0qVm91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe0rf7h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe0zTh51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe0/YvR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe1Hka51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe1HrEF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe1USTt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe1UT991cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe1bycR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe1dacd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1kb2NrZXItYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXe1nNGp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9Vc2Vycy9hbGxhbi9kZXYvcHJvamVjdHMvbGVhcm5pbmcvcGxheS1mdWxsc3RhY2stYXBpL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
